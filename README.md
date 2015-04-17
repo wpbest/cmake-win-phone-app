@@ -9,7 +9,7 @@ Where is the source code: C:/git/cmake-win-phone-app
 
 Where to build the binaries: C:/git/build/cmake-win-phone-app
 
-Before configuring your project use "Add Entry" button to add the following parameters for Windows Store build
+Before configuring your project use "Add Entry" button to add the following parameters for Windows Phone build
 
 Add Cache Entry
 
